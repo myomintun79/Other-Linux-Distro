@@ -3,5 +3,5 @@ Guide for most Linux Distro
 
 # Linuxlite
 https://www.linuxliteos.com/ \
-RDP
+RDP \
 https://www.linuxliteos.com/manual/network.html
