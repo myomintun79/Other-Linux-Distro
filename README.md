@@ -5,3 +5,6 @@ Guide for most Linux Distro
 https://www.linuxliteos.com/ \
 RDP \
 https://www.linuxliteos.com/manual/network.html
+
+# Linux Live Kit
+https://www.linux-live.org/
