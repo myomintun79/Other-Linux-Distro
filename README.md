@@ -6,6 +6,9 @@ https://www.linuxliteos.com/ \
 RDP \
 https://www.linuxliteos.com/manual/network.html
 
+# Create Own Linux
+https://fosspost.org/create-linux-distribution-based-on-ubuntu/
+
 # Linux Live Kit
 https://www.linux-live.org/ \
 https://www.linux.org/threads/howto-make-your-own-debian-live-iso-with-live-build-repos-included.58079/ \
