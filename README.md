@@ -7,7 +7,8 @@ RDP \
 https://www.linuxliteos.com/manual/network.html
 
 # Create Own Linux
-https://fosspost.org/create-linux-distribution-based-on-ubuntu/
+https://fosspost.org/create-linux-distribution-based-on-ubuntu/ \
+https://www.linuxjournal.com/content/how-build-custom-distributions-scratch
 
 # Linux Live Kit
 https://www.linux-live.org/ \
