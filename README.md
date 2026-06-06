@@ -10,7 +10,10 @@ https://www.linuxliteos.com/manual/network.html
 https://fosspost.org/create-linux-distribution-based-on-ubuntu/ \
 https://www.linuxjournal.com/content/how-build-custom-distributions-scratch \
 Current Linux System to ISO file \
-https://github.com/pieroproietti/penguins-eggs
+https://github.com/pieroproietti/penguins-eggs \
+https://calamares.codeberg.page/ \
+Create ISO Based Customize Linux ISO \
+https://github.com/PJ-Singh-001/Cubic
 
 # Linux Live Kit
 https://www.linux-live.org/ \
