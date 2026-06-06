@@ -8,7 +8,9 @@ https://www.linuxliteos.com/manual/network.html
 
 # Create Own Linux
 https://fosspost.org/create-linux-distribution-based-on-ubuntu/ \
-https://www.linuxjournal.com/content/how-build-custom-distributions-scratch
+https://www.linuxjournal.com/content/how-build-custom-distributions-scratch \
+Current Linux System to ISO file \
+https://github.com/pieroproietti/penguins-eggs
 
 # Linux Live Kit
 https://www.linux-live.org/ \
