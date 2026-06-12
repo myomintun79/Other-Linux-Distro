@@ -7,6 +7,7 @@ RDP \
 https://www.linuxliteos.com/manual/network.html
 
 # Create Own Linux
+https://www.youtube.com/watch?v=hWz0wiOp59U \
 https://fosspost.org/create-linux-distribution-based-on-ubuntu/ \
 https://www.linuxjournal.com/content/how-build-custom-distributions-scratch \
 Current Linux System to ISO file \
