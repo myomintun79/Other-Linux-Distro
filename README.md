@@ -26,4 +26,5 @@ https://help.ubuntu.com/community/LiveCDCustomization \
 # Boot Multiple ISOs On Internal Hard Drive
 https://www.youtube.com/watch?v=-ePuiBkZ0Vk&t=24s \
 https://www.youtube.com/watch?v=6hOKoJgBvlQ \
-https://www.youtube.com/watch?v=PIhIFIrLAzg&t=186s
+https://www.youtube.com/watch?v=PIhIFIrLAzg&t=186s \
+https://dtptips.com/%F0%9F%A7%A9-boot-multiple-iso-files-directly-from-hard-drive-or-ssd-no-usb-required/
