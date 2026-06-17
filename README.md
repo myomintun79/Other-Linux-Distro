@@ -23,3 +23,7 @@ https://www.linux-live.org/ \
 https://www.linux.org/threads/howto-make-your-own-debian-live-iso-with-live-build-repos-included.58079/ \
 https://help.ubuntu.com/community/LiveCDCustomization \
 
+# Boot Multiple ISOs On Internal Hard Drive
+https://www.youtube.com/watch?v=-ePuiBkZ0Vk&t=24s \
+https://www.youtube.com/watch?v=6hOKoJgBvlQ \
+https://www.youtube.com/watch?v=PIhIFIrLAzg&t=186s
